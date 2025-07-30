@@ -31,8 +31,9 @@ BookBuddy is a responsive, web-integrated chatbot designed to assist users in fi
 
 [🔗 Click here](https://github.com/nitinthakur001/Book_Recommendation_Chatbot) 
 
----
+or by this link you can get an idea about the chatbot
 
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?region=au-syd&integrationID=d2b7c153-6374-42d1-9b5a-f26b08f4c732&serviceInstanceID=5dc6315a-ece8-4e8c-ac4a-c103cf6272ea
 
 ---
 
