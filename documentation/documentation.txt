@@ -1,0 +1,8 @@
+Intents are the objectives of every bot. They represent the goal or purpose of a user question.
+Entities allow to collect specific details in the user question. The best way to think about entities is that they are the SUBJECTS of intents.
+
+The dialog in the Conversation API is like a conditional responses.. more like a logic tree with many switch case ... or if then conditions. 
+Each intent begins a node on the left and the logic flows from the top down through your intents. 
+If a certain intent is triggered by an utterance, its node is opened and the logic continues to entities.
+Setting up your dialog flow is all about logic. 
+
