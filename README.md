@@ -32,3 +32,13 @@ BookBuddy is a responsive, web-integrated chatbot designed to assist users in fi
 [🔗 Click here](https://github.com/nitinthakur001/Book_Recommendation_Chatbot) 
 
 ---
+
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/BookBuddy-Chatbot.git
+
